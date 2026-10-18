@@ -1,0 +1,11 @@
+# No external dependencies required.
+# This project uses only Python standard library modules:
+#   - tkinter (GUI)
+#   - unittest (testing)
+#   - random, threading, sys, os (built-in)
+#
+# Python 3.10 or higher is required.
+# Tkinter is bundled with standard CPython distributions on Windows.
+#
+# If tkinter is missing (rare on Windows), install Python from python.org
+# and ensure "tcl/tk and IDLE" is checked during installation.
